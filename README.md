@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mona <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="30" height="30"/>
+###                                                                             Hi there 👋 I'm Mona 
 
 <!--
 **monaabdo88/monaabdo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
