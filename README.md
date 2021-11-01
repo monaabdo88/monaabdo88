@@ -1,7 +1,7 @@
 
 
 
-###   Hi there <img src="https://raw.githubusercontent.com/monaabdo88/monaabdo88/master/wave.gif" width="30px"> I'm Mona 
+###   Hi there <img src="https://raw.githubusercontent.com/monaabdo88/monaabdo88/main/wave.gif" width="30px"> I'm Mona 
 
 <!--
 **monaabdo88/monaabdo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
