@@ -1,6 +1,7 @@
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
-###  [![Header](https://raw.githubusercontent.com/monaabdo88/<OWNER>/<OWNER>/readme_header.png "Header")](https://mona-abdo.com/) Hi there 👋 I'm Mona 
+###  Hi there 👋 I'm Mona 
 
 <!--
 **monaabdo88/monaabdo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
