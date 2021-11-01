@@ -7,7 +7,7 @@ I consider myself a self-starter, highly motivated, focused, and determined to s
 
 ------------------------------------------------
 🖐️ You can find me on
-<img src="https://img.shields.io/badge/Twitter-DevMona2-blue">
+Twitter : <img src="https://img.shields.io/badge/Twitter-DevMona2-blue">
 <!--**monaabdo88/monaabdo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
