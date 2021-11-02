@@ -11,7 +11,14 @@ I consider myself a self-starter, highly motivated, focused, and determined to s
 <a href="https://mona-abdo.com"><img src="https://img.shields.io/badge/Site-mona-yellowgreen"><a></p>
 
 <h2 align="center">💻Tecnologies & Tools💻</h2>
-  
+  <p align="center">
+   <img src="https://img.shields.io/badge/Front--end-HTML-brightgreen">
+   <img src="https://img.shields.io/badge/Front--end-CSS-brightgreen">
+   <img src="https://img.shields.io/badge/Front--end-JAVASCRIPT-brightgreen">
+   <img src="https://img.shields.io/badge/Front--end-BootStrap-brightgreen">
+   <img src="https://img.shields.io/badge/Front--end-Jquery-brightgreen">
+    
+  </p>
 <!--**monaabdo88/monaabdo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
